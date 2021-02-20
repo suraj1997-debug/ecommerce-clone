@@ -1,0 +1,28 @@
+
+.modal-header{
+    padding: 5px 15px;
+    background-color: #333;
+}
+.modal-title{
+    font-size: 18px;
+    color: #fff;
+}
+.modal-footer{
+    padding: 5px 15px;
+}
+.button-btn{
+    font-size: 14px;
+    color: #fff;
+    background-color: rgb(14, 13, 13);
+    border-color: #151616;
+}
+
+.button-btn:hover{
+    color: #fff;
+    background-color: #3b3a3a;
+    border: 1px solid black;
+}
+
+.form-control-sm{
+    font-weight: bold;
+}
